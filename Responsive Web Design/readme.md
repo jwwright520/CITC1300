@@ -1,4 +1,4 @@
-Lab Instructions
+Lab Instructions:
 
 Using the web site from the previous remove all the CSS from the stylesheet and convert the site to responsive website. (40 points)
 
